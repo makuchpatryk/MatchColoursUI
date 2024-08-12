@@ -1,7 +1,8 @@
 {
   "name": "@match-colours/ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "UI for matchColours game",
+  "repository": "https://github.com/makuchpatryk/MatchColoursUI",
   "license": "MIT",
   "type": "module",
   "exports": {
